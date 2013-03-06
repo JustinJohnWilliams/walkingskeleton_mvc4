@@ -1,0 +1,10 @@
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\bin\Debug\__NAME__.Tests.dll.config
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\bin\Debug\__NAME__.Tests.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\bin\Debug\__NAME__.Tests.pdb
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\bin\Debug\NSpec.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\bin\Debug\__NAME__.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\bin\Debug\__NAME__.pdb
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\obj\Debug\__NAME__.Tests.csprojResolveAssemblyReference.cache
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\obj\Debug\__NAME__.Tests.dll
+C:\Users\juwilliams\Desktop\Personal\walkingskeleton_mvc4\__NAME__.Tests\obj\Debug\__NAME__.Tests.pdb
